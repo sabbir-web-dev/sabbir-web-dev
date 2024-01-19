@@ -15,13 +15,15 @@ I find joy in exploring diverse technologies and frameworks, and I particularly 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <br/>
-<br/>
-<br/>
 
 - 👀 I’m interested in ...
+  
 - 🌱 I’m currently learning ...
+
 - 💬 Ask me about **MEARN**
+
 - 📫 How to reach me **web.sabbir.dev.com**
+
 - 😄 Pronouns: ...
 
 <br/>
