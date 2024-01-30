@@ -68,3 +68,4 @@ I find joy in exploring diverse technologies and frameworks, and I particularly 
 [<img src='https://img.icons8.com/?size=512&id=52539&format=png' alt='github' background-color='blue' height='40'>](https://github.com/sabbir-web-dev)
 [<img src='https://img.icons8.com/?size=512&id=44019&format=png' alt='linkedin' height='40'>](https://www.linkedin.com/in/websabbirdev/) 
 [<img src='https://img.icons8.com/?size=512&id=118501&format=png' alt='facebook' height='40'>](https://www.facebook.com/web.sabbir.dev) 
+[<img src='https://img.icons8.com/color/48/fiverr.png' alt='facebook' height='40'>]( https://www.fiverr.com/web_sabbir_dev) 
